@@ -1,0 +1,146 @@
+Params: n_neighbors=15, n_components=5, min_dist=0.0, min_cluster_size=50
+range(0, 49)
+Coherence 0.7199874031195824
+============================================
+Params: n_neighbors=15, n_components=5, min_dist=0.0, min_cluster_size=100
+range(0, 50)
+Coherence 0.7149927061422919
+============================================
+Params: n_neighbors=15, n_components=5, min_dist=0.1, min_cluster_size=50
+range(0, 3)
+Coherence 0.7610138305662478
+============================================
+Params: n_neighbors=15, n_components=5, min_dist=0.1, min_cluster_size=100
+range(0, 3)
+Coherence 0.7610138305662478
+============================================
+Params: n_neighbors=15, n_components=15, min_dist=0.0, min_cluster_size=50
+range(0, 42)
+Coherence 0.7124182669638489
+============================================
+Params: n_neighbors=15, n_components=15, min_dist=0.0, min_cluster_size=100
+range(0, 4)
+Coherence 0.7657028199702834
+============================================
+Params: n_neighbors=15, n_components=15, min_dist=0.1, min_cluster_size=50
+range(0, 3)
+Coherence 0.7346612050878761
+============================================
+Params: n_neighbors=15, n_components=15, min_dist=0.1, min_cluster_size=100
+range(0, 3)
+Coherence 0.7346612050878761
+============================================
+Params: n_neighbors=15, n_components=30, min_dist=0.0, min_cluster_size=50
+range(0, 30)
+Coherence 0.7142328518082304
+============================================
+Params: n_neighbors=15, n_components=30, min_dist=0.0, min_cluster_size=100
+range(0, 45)
+Coherence 0.7192689706330664
+============================================
+Params: n_neighbors=15, n_components=30, min_dist=0.1, min_cluster_size=50
+range(0, 3)
+Coherence 0.7347943212692329
+============================================
+Params: n_neighbors=15, n_components=30, min_dist=0.1, min_cluster_size=100
+range(0, 3)
+Coherence 0.7347943212692329
+============================================
+Params: n_neighbors=30, n_components=5, min_dist=0.0, min_cluster_size=50
+range(0, 22)
+Coherence 0.7207606256477654
+============================================
+Params: n_neighbors=30, n_components=5, min_dist=0.0, min_cluster_size=100
+range(0, 5)
+Coherence 0.7624696239910091
+============================================
+Params: n_neighbors=30, n_components=5, min_dist=0.1, min_cluster_size=50
+range(0, 53)
+Coherence 0.724124206578404
+============================================
+Params: n_neighbors=30, n_components=5, min_dist=0.1, min_cluster_size=100
+range(0, 1)
+Coherence 0.8173133665309426
+============================================
+
+Params: n_neighbors=30, n_components=15, min_dist=0.0, min_cluster_size=50
+range(0, 39)
+Coherence 0.7202967218178008
+============================================
+
+Params: n_neighbors=30, n_components=15, min_dist=0.0, min_cluster_size=100
+range(0, 5)
+Coherence 0.7624816453733575
+============================================
+Params: n_neighbors=30, n_components=15, min_dist=0.1, min_cluster_size=50
+range(0, 58)
+Coherence 0.7284696962290471
+============================================
+Params: n_neighbors=30, n_components=15, min_dist=0.1, min_cluster_size=100
+range(0, 3)
+Coherence 0.7348373571313116
+============================================
+Params: n_neighbors=30, n_components=30, min_dist=0.0, min_cluster_size=50
+range(0, 64)
+Coherence 0.7080586702626636
+============================================
+Params: n_neighbors=30, n_components=30, min_dist=0.0, min_cluster_size=100
+range(0, 6)
+Coherence 0.7447116497740794
+============================================
+Params: n_neighbors=30, n_components=30, min_dist=0.1, min_cluster_size=50
+range(0, 17)
+Coherence 0.7161274615815412
+============================================
+Params: n_neighbors=30, n_components=30, min_dist=0.1, min_cluster_size=100
+range(0, 1)
+Coherence 0.8173078888236803
+============================================
+Params: n_neighbors=50, n_components=5, min_dist=0.0, min_cluster_size=50
+range(0, 31)
+Coherence 0.7152125667345364
+============================================
+Params: n_neighbors=50, n_components=5, min_dist=0.0, min_cluster_size=100
+range(0, 7)
+Coherence 0.741280638236601
+============================================
+Params: n_neighbors=50, n_components=5, min_dist=0.1, min_cluster_size=50
+range(0, 54)
+Coherence 0.7174016682733662
+============================================
+Params: n_neighbors=50, n_components=5, min_dist=0.1, min_cluster_size=100
+range(0, 8)
+Coherence 0.747564150891448
+============================================
+Params: n_neighbors=50, n_components=15, min_dist=0.0, min_cluster_size=50
+range(0, 26)
+Coherence 0.7203037596107912
+============================================
+Params: n_neighbors=50, n_components=15, min_dist=0.0, min_cluster_size=100
+range(0, 2)
+Coherence 0.7916212396058041
+============================================
+Params: n_neighbors=50, n_components=15, min_dist=0.1, min_cluster_size=50
+range(0, 28)
+Coherence 0.725153356275412
+============================================
+Params: n_neighbors=50, n_components=15, min_dist=0.1, min_cluster_size=100
+range(0, 3)
+Coherence 0.7350896287826216
+============================================
+Params: n_neighbors=50, n_components=30, min_dist=0.0, min_cluster_size=50
+range(0, 31)
+Coherence 0.7226169280470451
+============================================
+Params: n_neighbors=50, n_components=30, min_dist=0.0, min_cluster_size=100
+range(0, 4)
+Coherence 0.7681630557501683
+============================================
+Params: n_neighbors=50, n_components=30, min_dist=0.1, min_cluster_size=50
+range(0, 3)
+Coherence 0.7537333623106277
+============================================
+Params: n_neighbors=50, n_components=30, min_dist=0.1, min_cluster_size=100
+range(0, 1)
+Coherence 0.8173051426017908
+============================================

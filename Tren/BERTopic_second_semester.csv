@@ -1,0 +1,241 @@
+Category,Month,Year,Total Entries
+Artificial Intelligence,07,2023,1797
+Artificial Intelligence,08,2023,1946
+Artificial Intelligence,09,2023,1815
+Artificial Intelligence,10,2023,2004
+Artificial Intelligence,11,2023,2069
+Artificial Intelligence,12,2023,1784
+Computation and Language,07,2023,1992
+Computation and Language,08,2023,2113
+Computation and Language,09,2023,2457
+Computation and Language,10,2023,3391
+Computation and Language,11,2023,2609
+Computation and Language,12,2023,2499
+Computational Complexity,07,2023,273
+Computational Complexity,08,2023,247
+Computational Complexity,09,2023,248
+Computational Complexity,10,2023,340
+Computational Complexity,11,2023,303
+Computational Complexity,12,2023,249
+"Computational Engineering, Finance, and Science",07,2023,180
+"Computational Engineering, Finance, and Science",08,2023,176
+"Computational Engineering, Finance, and Science",09,2023,176
+"Computational Engineering, Finance, and Science",10,2023,269
+"Computational Engineering, Finance, and Science",11,2023,249
+"Computational Engineering, Finance, and Science",12,2023,161
+Computational Geometry,07,2023,108
+Computational Geometry,08,2023,173
+Computational Geometry,09,2023,131
+Computational Geometry,10,2023,110
+Computational Geometry,11,2023,138
+Computational Geometry,12,2023,164
+Computer Science and Game Theory,07,2023,151
+Computer Science and Game Theory,08,2023,116
+Computer Science and Game Theory,09,2023,110
+Computer Science and Game Theory,10,2023,180
+Computer Science and Game Theory,11,2023,114
+Computer Science and Game Theory,12,2023,130
+Computer Vision and Pattern Recognition,07,2023,2503
+Computer Vision and Pattern Recognition,08,2023,2756
+Computer Vision and Pattern Recognition,09,2023,2650
+Computer Vision and Pattern Recognition,10,2023,3417
+Computer Vision and Pattern Recognition,11,2023,3176
+Computer Vision and Pattern Recognition,12,2023,3028
+Computers and Society,07,2023,205
+Computers and Society,08,2023,207
+Computers and Society,09,2023,246
+Computers and Society,10,2023,292
+Computers and Society,11,2023,269
+Computers and Society,12,2023,198
+Cryptography and Security,07,2023,284
+Cryptography and Security,08,2023,289
+Cryptography and Security,09,2023,299
+Cryptography and Security,10,2023,314
+Cryptography and Security,11,2023,276
+Cryptography and Security,12,2023,280
+Data Structures and Algorithms,07,2023,191
+Data Structures and Algorithms,08,2023,186
+Data Structures and Algorithms,09,2023,178
+Data Structures and Algorithms,10,2023,271
+Data Structures and Algorithms,11,2023,180
+Data Structures and Algorithms,12,2023,186
+Databases,07,2023,64
+Databases,08,2023,49
+Databases,09,2023,64
+Databases,10,2023,69
+Databases,11,2023,39
+Databases,12,2023,48
+Digital Libraries,07,2023,113
+Digital Libraries,08,2023,114
+Digital Libraries,09,2023,97
+Digital Libraries,10,2023,104
+Digital Libraries,11,2023,118
+Digital Libraries,12,2023,95
+Discrete Mathematics,07,2023,90
+Discrete Mathematics,08,2023,65
+Discrete Mathematics,09,2023,73
+Discrete Mathematics,10,2023,109
+Discrete Mathematics,11,2023,72
+Discrete Mathematics,12,2023,65
+"Distributed, Parallel, and Cluster Computing",07,2023,178
+"Distributed, Parallel, and Cluster Computing",08,2023,205
+"Distributed, Parallel, and Cluster Computing",09,2023,222
+"Distributed, Parallel, and Cluster Computing",10,2023,187
+"Distributed, Parallel, and Cluster Computing",11,2023,227
+"Distributed, Parallel, and Cluster Computing",12,2023,184
+Emerging Technologies,07,2023,117
+Emerging Technologies,08,2023,103
+Emerging Technologies,09,2023,115
+Emerging Technologies,10,2023,111
+Emerging Technologies,11,2023,152
+Emerging Technologies,12,2023,105
+Formal Languages and Automata Theory,07,2023,182
+Formal Languages and Automata Theory,08,2023,101
+Formal Languages and Automata Theory,09,2023,130
+Formal Languages and Automata Theory,10,2023,126
+Formal Languages and Automata Theory,11,2023,93
+Formal Languages and Automata Theory,12,2023,89
+General Literature,07,2023,0
+General Literature,08,2023,0
+General Literature,09,2023,0
+General Literature,10,2023,0
+General Literature,11,2023,0
+General Literature,12,2023,0
+Graphics,07,2023,221
+Graphics,08,2023,296
+Graphics,09,2023,225
+Graphics,10,2023,236
+Graphics,11,2023,270
+Graphics,12,2023,313
+Hardware Architecture,07,2023,126
+Hardware Architecture,08,2023,138
+Hardware Architecture,09,2023,146
+Hardware Architecture,10,2023,138
+Hardware Architecture,11,2023,156
+Hardware Architecture,12,2023,135
+Human-Computer Interaction,07,2023,536
+Human-Computer Interaction,08,2023,529
+Human-Computer Interaction,09,2023,763
+Human-Computer Interaction,10,2023,699
+Human-Computer Interaction,11,2023,609
+Human-Computer Interaction,12,2023,527
+Information Retrieval,07,2023,225
+Information Retrieval,08,2023,293
+Information Retrieval,09,2023,221
+Information Retrieval,10,2023,258
+Information Retrieval,11,2023,233
+Information Retrieval,12,2023,218
+Information Theory,07,2023,362
+Information Theory,08,2023,356
+Information Theory,09,2023,408
+Information Theory,10,2023,388
+Information Theory,11,2023,409
+Information Theory,12,2023,356
+Logic in Computer Science,07,2023,182
+Logic in Computer Science,08,2023,101
+Logic in Computer Science,09,2023,130
+Logic in Computer Science,10,2023,126
+Logic in Computer Science,11,2023,93
+Logic in Computer Science,12,2023,89
+Machine Learning,07,2023,3037
+Machine Learning,08,2023,3108
+Machine Learning,09,2023,3241
+Machine Learning,10,2023,4743
+Machine Learning,11,2023,3856
+Machine Learning,12,2023,3623
+Mathematical Software,07,2023,0
+Mathematical Software,08,2023,0
+Mathematical Software,09,2023,0
+Mathematical Software,10,2023,0
+Mathematical Software,11,2023,0
+Mathematical Software,12,2023,0
+Multiagent Systems,07,2023,151
+Multiagent Systems,08,2023,116
+Multiagent Systems,09,2023,110
+Multiagent Systems,10,2023,180
+Multiagent Systems,11,2023,114
+Multiagent Systems,12,2023,130
+Multimedia,07,2023,119
+Multimedia,08,2023,172
+Multimedia,09,2023,155
+Multimedia,10,2023,136
+Multimedia,11,2023,179
+Multimedia,12,2023,174
+Networking and Internet Architecture,07,2023,232
+Networking and Internet Architecture,08,2023,239
+Networking and Internet Architecture,09,2023,275
+Networking and Internet Architecture,10,2023,250
+Networking and Internet Architecture,11,2023,235
+Networking and Internet Architecture,12,2023,230
+Neural and Evolutionary Computing,07,2023,263
+Neural and Evolutionary Computing,08,2023,262
+Neural and Evolutionary Computing,09,2023,256
+Neural and Evolutionary Computing,10,2023,332
+Neural and Evolutionary Computing,11,2023,273
+Neural and Evolutionary Computing,12,2023,259
+Numerical Analysis,07,2023,363
+Numerical Analysis,08,2023,353
+Numerical Analysis,09,2023,319
+Numerical Analysis,10,2023,425
+Numerical Analysis,11,2023,349
+Numerical Analysis,12,2023,334
+Operating Systems,07,2023,0
+Operating Systems,08,2023,0
+Operating Systems,09,2023,0
+Operating Systems,10,2023,0
+Operating Systems,11,2023,0
+Operating Systems,12,2023,0
+Other Computer Science,07,2023,140
+Other Computer Science,08,2023,126
+Other Computer Science,09,2023,135
+Other Computer Science,10,2023,195
+Other Computer Science,11,2023,211
+Other Computer Science,12,2023,141
+Performance,07,2023,126
+Performance,08,2023,138
+Performance,09,2023,146
+Performance,10,2023,138
+Performance,11,2023,156
+Performance,12,2023,135
+Programming Languages,07,2023,182
+Programming Languages,08,2023,101
+Programming Languages,09,2023,130
+Programming Languages,10,2023,126
+Programming Languages,11,2023,93
+Programming Languages,12,2023,89
+Robotics,07,2023,631
+Robotics,08,2023,706
+Robotics,09,2023,990
+Robotics,10,2023,812
+Robotics,11,2023,723
+Robotics,12,2023,669
+Social and Information Networks,07,2023,255
+Social and Information Networks,08,2023,307
+Social and Information Networks,09,2023,280
+Social and Information Networks,10,2023,350
+Social and Information Networks,11,2023,299
+Social and Information Networks,12,2023,243
+Software Engineering,07,2023,217
+Software Engineering,08,2023,282
+Software Engineering,09,2023,252
+Software Engineering,10,2023,272
+Software Engineering,11,2023,242
+Software Engineering,12,2023,226
+Sound,07,2023,216
+Sound,08,2023,237
+Sound,09,2023,431
+Sound,10,2023,274
+Sound,11,2023,185
+Sound,12,2023,211
+Symbolic Computation,07,2023,182
+Symbolic Computation,08,2023,101
+Symbolic Computation,09,2023,130
+Symbolic Computation,10,2023,126
+Symbolic Computation,11,2023,93
+Symbolic Computation,12,2023,89
+Systems and Control,07,2023,533
+Systems and Control,08,2023,605
+Systems and Control,09,2023,714
+Systems and Control,10,2023,728
+Systems and Control,11,2023,666
+Systems and Control,12,2023,584
